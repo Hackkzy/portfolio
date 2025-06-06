@@ -28,7 +28,7 @@ export default function Home() {
       {/* Profile Description */}
       <div className="flex flex-col text-justify my-4 text-sm leading-loose tracking-wide gap-3">
         <p className=" text-sm mb-1 font-mono">
-          I'm a <span className="">WordPress Developer</span> focused on
+          I&apos;m a <span className="">WordPress Developer</span> focused on
           building custom plugins and Gutenberg blocks that extend functionality
           and improve the WordPress experience. I work with PHP, JavaScript, and
           React to build secure, reliable solutions for modern WordPress
